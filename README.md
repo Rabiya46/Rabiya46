@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rabiya</h1>
-<h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiya46&label=Profile%20views&color=0e75b6&style=flat" alt="rabiya46" /> </p>
 
 - 📫 How to reach me **rabiyaaiylchieva@gmail.com**
